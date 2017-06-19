@@ -109,7 +109,7 @@ For each of the nodes here, do the following:
 
 1.    Right click and select properties
 2.    Set the dropdown to "Basic - Redirect everyone's folder to the same location"
-3.    Set the root path to "\\DC_NAME\User_Files"
+3.    Set the root path to "\\\\DC_NAME\User_Files"
 4.    Apply
 5.    If prompted, select yes
 
